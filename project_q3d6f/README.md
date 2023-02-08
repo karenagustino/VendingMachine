@@ -1,16 +1,14 @@
-# My Personal Project
+## 🥫 AN INVENTORY VENDING MACHINE FOR BUSINESSES 🥫
 
-## AN INVENTORY VENDING MACHINE
-
-_What will the application do?_
+_What will the application do?_ 🍿
 - keep track of store inventories (how many stocks of items left to be purchased)
 - links with the store cashier database (if an item is being purchased, the vending machine items will decrease)
 - sends notifications if the item stock is less than 5 
 
-_Who will use it?_
-- business owners who want to keep track of inventory
+_Who will use it?_ 👩‍💼
+- Business owners who want to keep track of inventory
 
-_Why is this project of interest to you?_
+_Why is this project of interest to you?_ 🌅
 
 As a young business owner, I find it very challenging to always keep track of how many stock items I have left. 
 It is very difficult for me to receive a customer's offer, only to know that the item they asked for is out of stock. Last summer, I went to a convenience store in the US and found a really cool digitalized vending machine. It is a touch-screen vending machine with motion sensors, where whenever a customer passes by the machine, lights and 2D pictures of the itmes will be displayed. That's when I thought of integrating this problem and idea into a small interactive project. 
